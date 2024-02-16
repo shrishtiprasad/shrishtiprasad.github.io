@@ -18,7 +18,7 @@ window.addEventListener("scroll", function(){
       document.querySelector(".brand").innerHTML="~>"
     }
     else{
-      document.querySelector(".brand").innerHTML="Md Noorish Nauman"
+      document.querySelector(".brand").innerHTML="SHRISHTI PRASAD"
     }
    
 
@@ -29,7 +29,7 @@ window.addEventListener("scroll", function(){
     navigationItem.addEventListener("click", () => {
       menuBtn.classList.remove("active");
       navigation.classList.remove("active");
-      document.querySelector(".brand").innerHTML="Md Noorish Nauman"
+      document.querySelector(".brand").innerHTML="SHRISHTI PRASAD"
       c++
     });
    
