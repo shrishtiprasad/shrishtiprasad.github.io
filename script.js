@@ -15,7 +15,7 @@ window.addEventListener("scroll", function(){
     navigation.classList.toggle("active");
     if(c%2!=0){
 
-      document.querySelector(".brand").innerHTML="~>"
+      document.querySelector(".brand").innerHTML="SHRISHTI PRASAD"
     }
     else{
       document.querySelector(".brand").innerHTML="SHRISHTI PRASAD"
